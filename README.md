@@ -2,6 +2,7 @@
 
 ## this is a Royalty bot which can do all sort of stuff 
 
+Demo-vedio- https://youtu.be/0TR_PyjUSwI
 ### <i>Commands it can run</i>
 
 <img src="https://github.com/GaryThisSide1/Royalty-Tracking-API/blob/main/Screenshot%202022-12-11%20195418.png" width="50%">
