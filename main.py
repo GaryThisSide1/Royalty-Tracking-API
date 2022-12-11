@@ -249,7 +249,7 @@ async def specific(ctx,arg1,arg2):
 @client.command()
 async def Help(ctx):
     await ctx.send("For seeing the predefined nft colllection data use ```!data``` For a specific collection data use ```!specific  then write Update Authority then write the collection name```")
-client.run('MTA1MTA1MDY5MDM5MjM3NTMyNg.GqvIQ7.5Lvn6JlLtj98zZDeRw5hzb9ApovXur-zqSSvuA')
+client.run('token')
 
 
     
