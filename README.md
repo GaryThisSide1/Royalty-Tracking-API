@@ -10,6 +10,9 @@
 
 ![This is an image](https://github.com/GaryThisSide1/Royalty-Tracking-API/blob/main/Screenshot%202022-12-11%20195504.png)
 
-![This is an image](https://github.com/GaryThisSide1/Royalty-Tracking-API/blob/main/Screenshot%202022-12-11%20195504.png)
+![This is an image](https://github.com/GaryThisSide1/Royalty-Tracking-API/blob/main/Screenshot%202022-12-11%20195529.png)
 
+now to change the prededined collection u have to change the update authority and collection name of this 
+
+![This is an image](https://github.com/GaryThisSide1/Royalty-Tracking-API/blob/main/Screenshot%202022-12-11%20195529.png)
 
